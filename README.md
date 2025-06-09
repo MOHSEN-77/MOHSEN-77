@@ -11,7 +11,7 @@
   <p>
     یک توسعه‌دهنده فرانت‌اند علاقه‌مند به ساخت وب‌اپلیکیشن‌های زیبا و کاربردی هستم.
     <br>
-    در حال حاضر روی یادگیری و تسلط بر <b>React.Js و TypeScript</b> تمرکز دارم.
+    در حال حاضر روی یادگیری و تسلط بر <b>React.js و TypeScript</b> تمرکز دارم.
   </p>
 
 </div>
@@ -59,4 +59,20 @@
     <a href="https://github.com/MOHSEN-77"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHSEN-77&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph"/></a>
   </p>
   <p>
-    <img src="
+    <img src="https://github-readme-stats.vercel.app/api?username=MOHSEN-77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Mohsen's GitHub Stats"/>
+  </p>
+
+  ---
+
+  <h3>📫 چطور با من در ارتباط باشید / How to reach me</h3>
+
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="40" width="50" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:your-email@example.com" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email" height="40" width="50" />
+    </a>
+  </p>
+
+</div>
