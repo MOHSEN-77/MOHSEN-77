@@ -11,7 +11,7 @@
   <p>
     یک توسعه‌دهنده فرانت‌اند علاقه‌مند به ساخت وب‌اپلیکیشن‌های زیبا و کاربردی هستم.
     <br>
-    در حال حاضر روی یادگیری و تسلط بر <b>React.js و JavaScript</b> تمرکز دارم.
+    در حال حاضر روی یادگیری و تسلط بر <b>Next.js و TypeScript</b> تمرکز دارم.
   </p>
 
 </div>
@@ -59,7 +59,9 @@
     <a href="https://github.com/MOHSEN-77"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHSEN-77&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph"/></a>
   </p>
   <p>
-    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" alt="Mohsen's GitHub Stats"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHSEN-77&layout=donut&theme=dracula" />
+    </a>
   </p>
 
   ---
@@ -70,7 +72,7 @@
     <a href="https://www.instagram.com/mohsen.safari79" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohsen.safari79" height="40" width="50" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:your-email@example.com" target="_blank">
+    &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:mohsensafari043@gmail.com" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email" height="40" width="50" />
     </a>
   </p>
