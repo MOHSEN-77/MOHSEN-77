@@ -11,14 +11,14 @@
   <p>
     یک توسعه‌دهنده فرانت‌اند علاقه‌مند به ساخت وب‌اپلیکیشن‌های زیبا و کاربردی هستم.
     <br>
-    در حال حاضر روی یادگیری و تسلط بر <b>React.js و TypeScript</b> تمرکز دارم.
+    در حال حاضر روی یادگیری و تسلط بر <b>React.Js و TypeScript</b> تمرکز دارم.
   </p>
 
 </div>
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MOHSEN-77/MOHSEN-77/main/—Pngtree—abstract%20blue%20and%20gold%20on_1446345%20(1).jpg" alt="Abstract Background Banner"/>
+  <img src="https://raw.githubusercontent.com/MOHSEN-77/MOHSEN-77/main/Screenshot%202025-06-09%20031605.png" alt="Profile Banner"/>
 </p>
 ---
 
@@ -59,20 +59,4 @@
     <a href="https://github.com/MOHSEN-77"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHSEN-77&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph"/></a>
   </p>
   <p>
-    <img src="./—Pngtree—abstract blue and gold on_1446345.jpg" alt="Mohsen's GitHub Stats"/>
-  </p>
-
-  ---
-
-  <h3>📫 چطور با من در ارتباط باشید / How to reach me</h3>
-
-  <p>
-    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="40" width="50" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:your-email@example.com" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email" height="40" width="50" />
-    </a>
-  </p>
-
-</div>
+    <img src="
