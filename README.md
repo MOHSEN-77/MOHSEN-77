@@ -18,7 +18,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MOHSEN-77/MOHSEN-77/main/Screenshot%202025-06-09%20031605.png" alt="Profile Banner"/>
+  <img src="https://raw.githubusercontent.com/MOHSEN-77/MOHSEN-77/main/—Pngtree—abstract%20blue%20and%20gold%20on_1446345%20(1).jpg" alt="Abstract Background Banner"/>
 </p>
 ---
 
