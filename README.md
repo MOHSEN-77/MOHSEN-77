@@ -59,7 +59,7 @@
     <a href="https://github.com/MOHSEN-77"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHSEN-77&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph"/></a>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MOHSEN-77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Mohsen's GitHub Stats"/>
+    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" alt="Mohsen's GitHub Stats"/>
   </p>
 
   ---
