@@ -11,14 +11,14 @@
   <p>
     یک توسعه‌دهنده فرانت‌اند علاقه‌مند به ساخت وب‌اپلیکیشن‌های زیبا و کاربردی هستم.
     <br>
-    در حال حاضر روی یادگیری و تسلط بر <b>React.js و TypeScript</b> تمرکز دارم.
+    در حال حاضر روی یادگیری و تسلط بر <b>React.js و JavaScript</b> تمرکز دارم.
   </p>
 
 </div>
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MOHSEN-77/MOHSEN-77/main/—Pngtree—abstract%20blue%20and%20gold%20on_1446345%20(1).jpg" alt="Abstract Background Banner"/>
+  <img src="https://raw.githubusercontent.com/MOHSEN-77/MOHSEN-77/main/—Pngtree—abstract%20blue%20and%20gold%20on_1446345%20(1).jpg" alt="Abstract Blue and Gold Banner"/>
 </p>
 ---
 
@@ -67,8 +67,8 @@
   <h3>📫 چطور با من در ارتباط باشید / How to reach me</h3>
 
   <p>
-    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="40" width="50" />
+    <a href="https://www.instagram.com/mohsen.safari79" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohsen.safari79" height="40" width="50" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:your-email@example.com" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email" height="40" width="50" />
